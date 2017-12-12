@@ -1,6 +1,3 @@
-# -python_webhook
-用python实现的码云webhook自动部署脚本,能用在python2.6、2.7上，还能用于python3上，不用安装其他python包。
-
 # python_webhook
   本人公司在开源中国[码云](https://gitee.com)上的webhook部署脚本，是本人采用Tornado实现的，因为公司的服务器是centos6.8，自带python2.6.6，Tornado必要要python2.7或python3环境，因此要安装起来对于没有python基础的朋友是个麻烦事情。下面2个脚本不用安装任何包，就可以在centosOS6.x、centOS7.x、ubuntu14.04、ubuntu16.04上运行，简单方便。  
   
