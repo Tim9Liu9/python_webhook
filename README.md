@@ -24,10 +24,10 @@
 
 ## 安装
 
-1.下载或克隆此项目
+1.下载或克隆此项目: 克隆的时候最好使用ssh协议
 
 ```shell
-git clone https://github.com/Tim9Liu9/python_webhook
+git clone git@github.com:Tim9Liu9/python_webhook.git
 ```
 
 
